@@ -1,0 +1,19 @@
+main.pbi: \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project\main.c \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Test.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Std_Types.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Platform_Types.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\assert.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Dio.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Dio_Cfg.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Common_Macros.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Det.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Port.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Port_Cfg.h \
+  F:\Embedded\ Systems\2)\ ARM\ &\ AUTOSAR\ Diploma\5)\ AUTOSAR\ Diploma\3)\ Project\AUTOSAR_Project/Os.h
