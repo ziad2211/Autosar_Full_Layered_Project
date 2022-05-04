@@ -10,7 +10,6 @@
  * Author: Ziad Abdallah
  ******************************************************************************/
 
-#include "Port.h"
 #include "Dio.h"
 #include "LED.h"
 

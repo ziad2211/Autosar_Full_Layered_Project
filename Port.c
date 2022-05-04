@@ -399,25 +399,38 @@ void Port_SetPinMode( Port_PinType Pin,
                     PORT_SET_PIN_MODE_SID , PORT_E_UNINIT);
     error = TRUE;
   }
+  else
+  {
+    /* No action required */
+  }
   
   /*Check if the passed pin ID is within the range of the configured pins*/
-  else if(Pin>=PORT_CONFIGURED_PINS)
+  if(Pin>=PORT_CONFIGURED_PINS)
   {
     Det_ReportError(PORT_MODULE_ID, PORT_INSTANCE_ID,
                     PORT_SET_PIN_MODE_SID , PORT_E_PARAM_PIN );
     error = TRUE;
   }
   
+  else
+  {
+    /* No action required */
+  }
+  
   /*Check if the pin is changeable*/
-  else if(Port_Pins[Pin].pin_mode_change == STD_OFF)
+  if(Port_Pins[Pin].pin_mode_change == STD_OFF)
   {
     Det_ReportError(PORT_MODULE_ID, PORT_INSTANCE_ID,
                     PORT_SET_PIN_MODE_SID , PORT_E_MODE_UNCHANGEABLE);
     error = TRUE;
   }  
+  else
+  {
+    /* No action required */
+  }
   
   /*Check if the passed mode is available*/
-  else if(Mode >= PORT_CONFIGURED_MODES)
+  if(Mode >= PORT_CONFIGURED_MODES)
   {
     Det_ReportError(PORT_MODULE_ID, PORT_INSTANCE_ID,
                     PORT_SET_PIN_MODE_SID , PORT_E_PARAM_INVALID_MODE);
